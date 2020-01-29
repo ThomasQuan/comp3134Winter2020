@@ -1,0 +1,11 @@
+Tracing route to 159.203.4.157 over a maximum of 30 hops
+
+  1     5 ms     1 ms     2 ms  10.4.64.1
+  2     3 ms     2 ms     3 ms  198.96.85.3
+  3     6 ms     3 ms     3 ms  ut-hub-gbrownc-if-internet.gtanet.ca [205.211.94.173]
+  4     5 ms     3 ms     2 ms  digitalocean.ip4.torontointernetxchange.net [206.108.35.15]
+  5     4 ms     2 ms     2 ms  138.197.249.91
+  6     *        *        *     Request timed out.
+  7     5 ms     3 ms     3 ms  159.203.4.157
+
+Trace complete.

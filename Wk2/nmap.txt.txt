@@ -1,0 +1,42 @@
+ ------------------- first command ----------------
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-29 17:24 UTC
+Nmap scan report for ubuntu-s-1vcpu-1gb-tor1-01 (159.203.4.157)
+Host is up (0.0000070s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap done: 1 IP address (1 host up) scanned in 1.62 seconds
+
+-------------------- second command ------------------
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-29 17:26 UTC
+Nmap scan report for ubuntu-s-1vcpu-1gb-tor1-01 (159.203.4.157)
+Host is up (0.000025s latency).
+
+PORT   STATE  SERVICE
+21/tcp closed ftp
+
+Nmap done: 1 IP address (1 host up) scanned in 0.25 seconds
+
+--------------- third command ---------------
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-29 17:27 UTC
+Nmap scan report for ubuntu-s-1vcpu-1gb-tor1-01 (159.203.4.157)
+Host is up (0.000018s latency).
+
+PORT   STATE  SERVICE
+21/tcp closed ftp
+22/tcp open   ssh
+23/tcp closed telnet
+24/tcp closed priv-mail
+
+----------------- fourth command ------------------
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-29 17:28 UTC
+Nmap scan report for ubuntu-s-1vcpu-1gb-tor1-01 (159.203.4.157)
+Host is up (0.0000070s latency).
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+

@@ -1,0 +1,115 @@
+-------------- DOMAIN 1 ------------------
+Domain Name: GOOGLE.COM
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T15:39:04Z
+Creation Date: 1997-09-15T04:00:00Z
+Registry Expiry Date: 2028-09-14T04:00:00Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Name Server: NS1.GOOGLE.COM
+Name Server: NS2.GOOGLE.COM
+Name Server: NS3.GOOGLE.COM
+Name Server: NS4.GOOGLE.COM
+DNSSEC: unsigned
+
+------------------------ DOMAIN 2 -------------------------
+Domain Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: http://www.registrarsafe.com
+Updated Date: 2020-01-15T16:52:39Z
+Creation Date: 1997-03-29T05:00:00Z
+Registry Expiry Date: 2028-03-30T04:00:00Z
+Registrar: RegistrarSafe, LLC
+Registrar IANA ID: 3237
+Registrar Abuse Contact Email: abusecomplaints@registrarsafe.com
+Registrar Abuse Contact Phone: +1-650-308-7004
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Name Server: A.NS.FACEBOOK.COM
+Name Server: B.NS.FACEBOOK.COM
+Name Server: C.NS.FACEBOOK.COM
+Name Server: D.NS.FACEBOOK.COM
+DNSSEC: unsigned
+
+-------------------------- DOMAIN 3 --------------------------
+Domain Name: REDDIT.COM
+Registry Domain ID: 153584275_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2017-07-12T19:18:12Z
+Creation Date: 2005-04-29T17:59:19Z
+Registry Expiry Date: 2020-04-29T17:59:19Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Name Server: NS-1029.AWSDNS-00.ORG
+Name Server: NS-1887.AWSDNS-43.CO.UK
+Name Server: NS-378.AWSDNS-47.COM
+Name Server: NS-557.AWSDNS-05.NET
+DNSSEC: unsigned
+
+
+--------------------------------DOMAIN 4---------------------
+Domain Name: WIKIHOW.COM
+Registry Domain ID: 122355543_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+Updated Date: 2014-11-26T23:59:54Z
+Creation Date: 2004-06-12T18:00:21Z
+Registry Expiry Date: 2024-06-12T18:00:21Z
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Registrar Abuse Contact Email: abuse@web.com
+Registrar Abuse Contact Phone: +1.8003337680
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS10.DNSMADEEASY.COM
+Name Server: NS11.DNSMADEEASY.COM
+Name Server: NS12.DNSMADEEASY.COM
+Name Server: NS13.DNSMADEEASY.COM
+Name Server: NS14.DNSMADEEASY.COM
+Name Server: NS15.DNSMADEEASY.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+----------------------------- DOMAIN 5 ------------------------------
+
+Domain Name: W3SCHOOL.COM
+Registry Domain ID: 18659024_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.domain.com
+Registrar URL: http://www.domain.com
+Updated Date: 2018-12-08T17:27:13Z
+Creation Date: 2000-01-29T09:25:17Z
+Registry Expiry Date: 2020-01-29T09:25:16Z
+Registrar: Domain.com, LLC
+Registrar IANA ID: 886
+Registrar Abuse Contact Email: compliance@domain-inc.net
+Registrar Abuse Contact Phone: 602-226-2389
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS1.LIFEISATEST.COM
+Name Server: NS2.LIFEISATEST.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2020-01-29T17:12:42Z <<<

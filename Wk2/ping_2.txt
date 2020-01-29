@@ -1,0 +1,10 @@
+Pinging 159.203.4.157 with 32 bytes of data:
+Reply from 159.203.4.157: bytes=32 time=5ms TTL=58
+Reply from 159.203.4.157: bytes=32 time=5ms TTL=58
+Reply from 159.203.4.157: bytes=32 time=2ms TTL=58
+Reply from 159.203.4.157: bytes=32 time=5ms TTL=58
+
+Ping statistics for 159.203.4.157:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 5ms, Average = 4ms

@@ -1,0 +1,5 @@
+172.217.165.14 - google.com
+[100.25.73.52] - naughtydog.com
+[31.13.80.36] - facebook.com
+[172.217.0.238] - youtube.com
+[151.101.129.140] - reddit.com

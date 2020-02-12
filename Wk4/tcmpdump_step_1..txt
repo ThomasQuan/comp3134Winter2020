@@ -1,0 +1,9 @@
+23:40:04.572122 IP 172.98.155.190.61291 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 444860, win 513, options [nop,nop,sack 1 {445032:445204}], length 0
+23:40:04.572179 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 172.98.155.190.61291: Flags [P.], seq 444860:445032, ack 289, win 320, length 172
+23:40:04.572207 IP 172.98.155.190.61291 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 444860, win 513, options [nop,nop,sack 2 {445496:445668}{445032:445204}], length 0
+23:40:04.591573 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 172.98.155.190.61291: Flags [P.], seq 445204:445496, ack 289, win 320, length 292
+23:40:04.629276 IP 172.98.155.190.61291 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 445204, win 512, options [nop,nop,sack 1 {445496:445668}], length 0
+23:40:04.629342 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 172.98.155.190.61291: Flags [P.], seq 445668:446512, ack 289, win 320, length 844
+23:40:04.644359 IP 172.98.155.190.61291 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 445668, win 510, length 0
+23:40:04.644421 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 172.98.155.190.61291: Flags [P.], seq 446512:446844, ack 289, win 320, length 332
+23:40:04.646483 IP 172.98.155.190.61291 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 289:325, ack 445668, win 510, length 36

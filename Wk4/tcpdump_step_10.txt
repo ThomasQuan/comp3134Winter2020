@@ -1,0 +1,12 @@
+00:12:58.221296 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 172.98.155.190.61291: Flags [P.], seq 295468:296160, ack 181, win 320, length 692
+00:12:58.230303 IP 172.98.155.190.61291 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 290448, win 514, options [nop,nop,sack 2 {292580:294952}{290812:292408}], length 0
+00:12:58.230343 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 172.98.155.190.61291: Flags [P.], seq 296160:296508, ack 181, win 320, length 348
+00:12:58.230460 IP 172.98.155.190.61291 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 290448, win 514, options [nop,nop,sack 2 {292580:295468}{290812:292408}], length 0
+00:12:58.230657 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 172.98.155.190.61291: Flags [P.], seq 296508:297024, ack 181, win 320, length 516
+00:12:58.245928 IP 172.98.155.190.61291 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 290448, win 514, options [nop,nop,sack 1 {290812:295468}], length 0
+00:12:58.245974 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 172.98.155.190.61291: Flags [P.], seq 297024:297196, ack 181, win 320, length 172
+00:12:58.257224 IP 172.98.155.190.61291 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 181:217, ack 290448, win 514, length 36
+^C
+1844 packets captured
+1847 packets received by filter
+3 packets dropped by kernel

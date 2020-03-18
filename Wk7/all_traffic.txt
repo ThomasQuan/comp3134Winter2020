@@ -1,0 +1,3 @@
+traffic to droplet ip : tcpdump -i eth0 dst 159.203.19.176
+traffic from droplet ip : tcpdump -i eth0 src 159.203.19.176
+wireshark to get it all and save it as pcapng

@@ -1,0 +1,21 @@
+First HTTP Packet to Droplet IP Address
+Source Host : 10.4.67.107
+Source Port : 54452
+Destination Host : 159.203.19.176
+Destination Port : 22
+
+
+Second HTTP Packet to Droplet IP Address
+Source Host : 159.203.19.176
+Source Port : 22
+Destination Host :  10.4.67.107
+Destination Port : 22
+
+
+Third HTTP Packet to Droplet IP Address
+Source Host : 10.4.67.107
+Source Port : 54452
+Destination Host : 159.203.19.176
+Destination Port : 22
+
+Command to capture : ip.addr == 159.203.19.176

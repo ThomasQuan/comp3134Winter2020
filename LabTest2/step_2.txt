@@ -1,0 +1,20 @@
+First : 
+  Source: 10.4.67.107
+    Destination: 159.203.19.176
+
+    Source Port: 54791
+    Destination Port: 80
+Second :
+Source host : 159.203.19.176
+Destination Host : 10.4.67.107
+Source port : 80
+Destination Port 54793
+
+Third :
+Source Host : 159.203.19.176
+Destination Host : 10.4.67.107
+Source Port : 80
+Destination Port : 54791
+
+
+Command to capture : ip.addr == 159.203.19.176

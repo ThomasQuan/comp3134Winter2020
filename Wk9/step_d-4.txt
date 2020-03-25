@@ -1,0 +1,2 @@
+information which we developer don't want the users to see are shown as clear as day because of querry manipulation.
+All of the information about the web root file are shown.

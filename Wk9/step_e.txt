@@ -1,0 +1,5 @@
+First problem is to use basename() for getting the last directory name IF searched querry point back 2 directory
+in this case it's going to point to basename html when going back 2 directory
+
+Second problem in using ternary operator for file_exist() to check if the file exist or not
+if exist then display the path, if not then in my case point them to the current directory shown ( . )

@@ -1,0 +1,2 @@
+HTML root directory are listed.
+Sensitive information is all the information that we don't want the user to see are shown by encoded path traversal

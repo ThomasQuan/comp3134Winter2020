@@ -1,0 +1,2 @@
+The problem is that we don't have a file name hello in the directory   directory_traversal_part1
+SENSITIVE INFORMATION CONTAIN :  path name , line number , error type.

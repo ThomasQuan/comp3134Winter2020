@@ -1,0 +1,18 @@
+1) url: https://www.dictionary.com/browse/security# 
+	     Page load to word definition.
+	     Document.cookie in console : "Variation=v0; bid=128062-1585103989661; sid=545314-1585103989662; _ga=GA1.2.615028096.1585103990; _gid=GA1.2.978179744.1585103990; __qca=P0-979400455-1585103990361; __gads=ID=c43dde628b9374ec:T=1585103990:S=ALNI_MaGu3sUENsKmF8HuDSvi-7sryyLww" 
+
+2) url : https://www.dictionary.com/misspelling?term=secerew
+	     Page content is  No results found  
+             The searching form has the word we enter in the url 
+             Document.cookie in console : "Variation=v0; bid=128062-1585103989661; sid=545314-1585103989662; _ga=GA1.2.615028096.1585103990; _gid=GA1.2.978179744.1585103990; __qca=P0-979400455-1585103990361; __gads=ID=c43dde628b9374ec:T=1585103990:S=ALNI_MaGu3sUENsKmF8HuDSvi-7sryyLww"  
+
+3)  url: https://www.dictionary.com/noresult?term=%3Cscript%3Ealert(%27hello%27)%3C%2Fscript%3E&s=ts
+	     url change : the term misspelling is replaced by noresult
+             Page content is stll No results found 	
+             In console : server responded with a status of 404 
+             Document.cookie : "Variation=v0; bid=128062-1585103989661; sid=545314-1585103989662; _ga=GA1.2.615028096.1585103990; _gid=GA1.2.978179744.1585103990; __qca=P0-979400455-1585103990361; __gads=ID=c43dde628b9374ec:T=1585103990:S=ALNI_MaGu3sUENsKmF8HuDSvi-7sryyLww"
+
+4) url : https://www.dictionary.com/noresult?term=%3Cscript%3Ealert(%27hello%27)%3C/script%3E
+	     It is the same error page and server responded with status :404 
+             Document.cookie: "Variation=v0; bid=128062-1585103989661; sid=545314-1585103989662; _ga=GA1.2.615028096.1585103990; _gid=GA1.2.978179744.1585103990; __qca=P0-979400455-1585103990361; __gads=ID=c43dde628b9374ec:T=1585103990:S=ALNI_MaGu3sUENsKmF8HuDSvi-7sryyLww" 

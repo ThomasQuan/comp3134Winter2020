@@ -1,0 +1,2 @@
+Stripping prevent js insertion so that the server can't be spoof
+HTMl entity value is the basic scriptable form value.

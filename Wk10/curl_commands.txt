@@ -1,0 +1,8 @@
+curl https://www.dictionary.com/browse/curl
+curl https://www.dictionary.com/browse/curlxyz
+curl http://159.203.39.47/sending_info_to_app_1.php?q=helloworld
+#“<script>document.write(‘overwrite_everything’)</script>”
+curl http://159.203.39.47/sending_info_to_app_1.php?q=%3Cscript%3Edocument.write(%E2%80%98overwrite_everything%E2%80%99)%3C/script%3E
+#“<script>document.write(‘overwrite_everything’)</script>”
+curl http://159.203.39.47/sending_info_to_app_2.php?q=%3Cscript%3Edocument.write(%E2%80%98overwrite_everything%E2%80%99)%3C/script%3E
+

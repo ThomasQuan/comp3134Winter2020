@@ -1,0 +1,3 @@
+The issue here is that attacker can send a text file up to the server of the website
+and if someone were to read the text file (let's say a blog site or chat application with share file enable)
+would be attack by the stored url, either by redirecting the user to that url or post/get to the url.

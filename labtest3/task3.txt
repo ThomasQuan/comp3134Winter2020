@@ -1,0 +1,6 @@
+Form from https://login.mailchimp.com/
+input 1 : name = 'referrer' , value=""
+input 2: name = 'from' , value="" 
+input 3: name ='auth_system', value=""
+input 4: name='__csrf_token' , value = ''
+input 5 : name="auth_token", value = ''

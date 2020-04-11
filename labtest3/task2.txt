@@ -1,0 +1,6 @@
+using REST Client Vscode extension : 
+GET https://www.reddit.com/search/?q=information HTTP/1.1
+Content-Type: text/html
+
+
+using curl : curl "https://www.reddit.com/search/?q=information"

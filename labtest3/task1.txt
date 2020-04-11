@@ -1,0 +1,32 @@
+Domain 1  :https://gbc-fullstack.live/
+
+	Content : <!-- Begin Jekyll SEO tag v2.6.1 -->
+		  <!-- End Jekyll SEO tag -->
+		  <!--[if lt IE 9]>
+   		  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+   		  <![endif]-->
+
+Domain 2 :https://mail.georgebrown.ca/owa/#path=/mail	
+	Content : 
+		<!--[if IE 8 ]> <body class="ie8 ms-fwt-r"> <![endif]-->
+		<!--[if (gte IE 9)|!(IE)]><!-->
+		<!--<![endif]-->
+
+Domain 3 : https://www.w3schools.com/tags/tag_comment.asp
+	Content : 
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>  
+		<![endif]-->
+
+
+Domain 4: https://en.cdprojektred.com/
+
+	Content : 
+		<!--[if IE 6]>
+		<html id="ie6" lang="en-US">
+		<![endif]-->
+		<!--[if IE 7]>
+		<html id="ie7" lang="en-US">
+		<![endif]-->
+		<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->

@@ -1,0 +1,4 @@
+Observation 1 : everything is working as expected as Ben active is 0 so the output is none;
+Observation 2 : the output is Ben%27--+ in the url sent a request to the server that execute that command and remove the active condition of the querry resulting in
+the user having a display result of which is restricted.
+Observation 3: this will select * from the database that active is 1.
